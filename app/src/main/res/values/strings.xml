@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Messages</string>
+    <string name="connect">Connect</string>
+    <string name="un_subscribe">UnSubscribe</string>
+    <string name="publish">Publish</string>
+    <string name="published_messages">Messages Published</string>
+    <string name="subscribed_messages">Messages Found</string>
+</resources>
